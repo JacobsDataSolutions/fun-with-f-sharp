@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CloneRenameSolution", "CloneRenameSolution.fsproj", "{341386F7-6378-4DB5-8B6A-AD91E890F930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341386F7-6378-4DB5-8B6A-AD91E890F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341386F7-6378-4DB5-8B6A-AD91E890F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341386F7-6378-4DB5-8B6A-AD91E890F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341386F7-6378-4DB5-8B6A-AD91E890F930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F20093E-41A9-414D-AF24-31368294B98C}
+	EndGlobalSection
+EndGlobal

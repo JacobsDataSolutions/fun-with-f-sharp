@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CloneRenameSolution": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Code\\DemoSolutions\\Initech.OrgManager C:\\Code\\DemoSolutions\\JDS.OrgManager Initech JDS"
+    }
+  }
+}

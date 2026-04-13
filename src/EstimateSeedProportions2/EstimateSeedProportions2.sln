@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EstimateSeedProportions2", "EstimateSeedProportions2.fsproj", "{5CDACE3C-70A2-4F6D-9194-DB046E4BA79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDACE3C-70A2-4F6D-9194-DB046E4BA79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDACE3C-70A2-4F6D-9194-DB046E4BA79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDACE3C-70A2-4F6D-9194-DB046E4BA79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDACE3C-70A2-4F6D-9194-DB046E4BA79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D073FA99-7F49-427F-9851-FE9C22D5CAE6}
+	EndGlobalSection
+EndGlobal
